@@ -1,1 +1,1 @@
-this script it removes all the files in the diroctory
+script to print "hello 'user'"
